@@ -1,7 +1,7 @@
 # PuntoDeEncuentro
 
 <img src="public_html/img/photos/spaanseles.jpg">
-I made <a href="www.puntodeencuentro.nl">this website</a> for a foundation for language lessons for children of immigrants. 
+I made <a href="https://www.puntodeencuentro.nl">this website</a> for a foundation for language lessons for children of immigrants. 
 They wanted to distinguish themselves from the competitors who actually all have the same type of website. Their old website was no longer sufficient and they wanted to attract new students with socials, reinforced with a solid website. It had to invite people to get in touch as much as possible.
 
 ## Description
